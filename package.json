@@ -5,6 +5,7 @@
   "repository": "https://github.com/aehyok/blog.git",
   "author": "Kano",
   "license": "MIT",
+  "homepage": "https://Virkano.github.io/docs",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
